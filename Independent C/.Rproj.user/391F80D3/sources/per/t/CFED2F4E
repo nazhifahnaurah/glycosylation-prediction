@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1632996473015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "298222173",
+    "id" : "CFED2F4E",
+    "lastKnownWriteTime" : 1633025196,
+    "last_content_update" : 1633025196492,
+    "path" : "D:/sems skripsi/Independent C/svm mrmr75.R",
+    "project_path" : "svm mrmr75.R",
+    "properties" : {
+        "cursorPosition" : "126,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

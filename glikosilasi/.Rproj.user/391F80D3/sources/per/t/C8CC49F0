@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1640430152399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "502751859",
+    "id" : "C8CC49F0",
+    "lastKnownWriteTime" : 1631515553,
+    "last_content_update" : 1631515553,
+    "path" : "D:/sems skripsi/BioMedik/glikosilasi/pac.R",
+    "project_path" : "pac.R",
+    "properties" : {
+        "cursorPosition" : "3,43",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

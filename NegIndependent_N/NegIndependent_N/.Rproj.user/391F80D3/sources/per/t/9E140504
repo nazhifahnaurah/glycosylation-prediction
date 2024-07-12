@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628764365344.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2800392061",
+    "id" : "9E140504",
+    "lastKnownWriteTime" : 1629551234,
+    "last_content_update" : 1629551234378,
+    "path" : "D:/BioMedik/NegIndependent_N/NegIndependent_N/aaindex.R",
+    "project_path" : "aaindex.R",
+    "properties" : {
+        "cursorPosition" : "2,76",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

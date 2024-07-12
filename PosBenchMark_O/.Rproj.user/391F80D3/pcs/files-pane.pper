@@ -1,0 +1,13 @@
+{
+    "path" : "D:/BioMedik/PosBenchMark_O",
+    "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 1
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

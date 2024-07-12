@@ -1,0 +1,49 @@
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("BioSeqClass")
+
+library(protr)
+library(devtools)
+library(tidyverse)
+source_url("https://raw.githubusercontent.com/lrjoshi/FastaTabular/master/fasta_and_tabular.R")
+
+NegIndependent_C<-read.csv("D:/BioMedik/Datasets Glycomine/NegIndependent_C.txt", header = FALSE, sep="\t")
+windows=15;
+
+jumlah_seq=1
+seq_iter=array()
+for(i in 1:nrow(NegIndependent_C)){
+  print(paste("-------",i,"-------"));
+  prots<-getUniProt(NegIndependent_C[i,2])
+  start=NegIndependent_C[i,3]-((windows-1)/2)
+  end=NegIndependent_C[i,3]+((windows-1)/2)
+  seq=substr(prots[[1]],start,end)
+  #print(paste("",seq))
+  
+  
+  if(nchar(seq)==windows){
+    print (seq)
+    seq_iter[jumlah_seq]=seq
+    jumlah_seq=jumlah_seq+1
+  }
+  
+}
+
+data<-write.csv(seq_iter, file = "NegIndependent_C.csv", row.names = F)
+TabularToFasta("NegIndependent_C.csv")
+
+
+#AAindex
+if (interactive()) {
+  file = file.path(path.package("BioSeqClass"), "example", "NegIndependent_C.pep")
+  seq  = as.matrix(read.csv(file, header = F)) [,1]
+  AI_all = featureAAindex(seq)
+  AI_pos = featureAAindex(seq, "ANDN920101")
+  
+  ACI_all = featureACI(seq)
+  ACI_ANDN920101 = featureACI(seq,"ANDN920101")
+  
+  ACF_all = featureACF(seq,1)
+  ACF_ANDN920101 = featureACF(seq,3,"ANDN920101")
+}

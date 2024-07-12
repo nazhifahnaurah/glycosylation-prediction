@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628768137184.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "73067715",
+    "id" : "3AD204BF",
+    "lastKnownWriteTime" : 1629547651,
+    "last_content_update" : 1629547651976,
+    "path" : "D:/BioMedik/PosBenchMark_O/aaindex.R",
+    "project_path" : "aaindex.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

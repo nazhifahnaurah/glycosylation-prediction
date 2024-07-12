@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631365138816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3050279321",
+    "id" : "73505FB1",
+    "lastKnownWriteTime" : 1631365181,
+    "last_content_update" : 1631365181063,
+    "path" : "D:/BioMedik/NegIndependent_N/NegIndependent_N/hydro.R",
+    "project_path" : "hydro.R",
+    "properties" : {
+        "cursorPosition" : "5,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

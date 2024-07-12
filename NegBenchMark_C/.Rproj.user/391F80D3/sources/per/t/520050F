@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630936336475.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1556068062",
+    "id" : "520050F",
+    "lastKnownWriteTime" : 1631265521,
+    "last_content_update" : 1631265521345,
+    "path" : "D:/skripsi/BioMedik/NegBenchMark_C/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

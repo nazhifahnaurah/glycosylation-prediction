@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631284633969.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "301487083",
+    "id" : "C4A5330F",
+    "lastKnownWriteTime" : 1631296273,
+    "last_content_update" : 1631296273520,
+    "path" : "D:/BioMedik/NegBenchMark_N/NegBenchMark_N/hydro.R",
+    "project_path" : "hydro.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631350146893.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2923069571",
+    "id" : "A6844A6E",
+    "lastKnownWriteTime" : 1631350584,
+    "last_content_update" : 1631350584065,
+    "path" : "D:/BioMedik/NegBenchMark_O/NegBenchMark_O/select column.R",
+    "project_path" : "select column.R",
+    "properties" : {
+        "cursorPosition" : "0,65",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,6 @@
+#AAindex
+if (interactive()) {
+  file = file.path(path.package("BioSeqClass"), "example", "NegIndependent_O.pep")
+  seq  = as.matrix(read.csv(file, header = F)) [,1]
+  AI_neg = featureAAindex(seq, "ANDN920101") [,-16]
+}

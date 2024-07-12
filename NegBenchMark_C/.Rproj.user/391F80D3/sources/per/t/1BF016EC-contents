@@ -1,0 +1,18 @@
+library(mRMRe)
+BenchMark_C<-read.csv("D:/BioMedik/NegBenchMark_C/BenchMark_C.csv", header = TRUE, sep=",")
+#BenchMark_C<-as.numeric(BenchMark_C)
+str(BenchMark_C)
+colnames(BenchMark_C)
+BenchMark_C<-mRMR.data(data=data.frame(BenchMark_C[,3:92, drop=FALSE]))
+MRMR_Test<-mRMR.classic("mRMRe.Filter", data=BenchMark_C, target_indices=90,
+                        feature_count = 50)
+solutions(MRMR_Test)
+
+--------------------------------------------------------------------------------------------
+
+BenchMark_C<-mRMR.data(data=data.frame(BenchMark_C[,3:92, drop=FALSE]))
+ensemble <- mRMR.ensemble(data = dd, target_indices = c(1),
+                            solution_count = 5,
+                            feature_count = 10,
+                            fixed_feature_count = 1)
+solutions(ensemble, with_fixed_features = FALSE)

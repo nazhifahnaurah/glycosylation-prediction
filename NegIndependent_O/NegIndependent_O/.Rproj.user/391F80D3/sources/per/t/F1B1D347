@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631383974090.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3643344080",
+    "id" : "F1B1D347",
+    "lastKnownWriteTime" : 1631500297,
+    "last_content_update" : 1631500297584,
+    "path" : "D:/BioMedik/NegIndependent_O/NegIndependent_O/mrmr idpn.R",
+    "project_path" : "mrmr idpn.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

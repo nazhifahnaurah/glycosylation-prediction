@@ -1,0 +1,355 @@
+[1] "=====Iterasi Ke- 1 ====="
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  103
+
+[1] "=====Iterasi Ke- 1 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 489  54
+      1  43 254
+                                         
+               Accuracy : 0.8845         
+                 95% CI : (0.861, 0.9054)
+    No Information Rate : 0.6333         
+    P-Value [Acc > NIR] : <2e-16         
+                                         
+                  Kappa : 0.7495         
+                                         
+ Mcnemar's Test P-Value : 0.3099         
+                                         
+            Sensitivity : 0.9192         
+            Specificity : 0.8247         
+         Pos Pred Value : 0.9006         
+         Neg Pred Value : 0.8552         
+             Prevalence : 0.6333         
+         Detection Rate : 0.5821         
+   Detection Prevalence : 0.6464         
+      Balanced Accuracy : 0.8719         
+                                         
+       'Positive' Class : 0              
+                                         
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  123
+
+[1] "=====Iterasi Ke- 2 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 498  35
+      1  35 272
+                                          
+               Accuracy : 0.9167          
+                 95% CI : (0.8959, 0.9345)
+    No Information Rate : 0.6345          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.8203          
+                                          
+ Mcnemar's Test P-Value : 1               
+                                          
+            Sensitivity : 0.9343          
+            Specificity : 0.8860          
+         Pos Pred Value : 0.9343          
+         Neg Pred Value : 0.8860          
+             Prevalence : 0.6345          
+         Detection Rate : 0.5929          
+   Detection Prevalence : 0.6345          
+      Balanced Accuracy : 0.9102          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  103
+
+[1] "=====Iterasi Ke- 3 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 502  40
+      1  42 256
+                                          
+               Accuracy : 0.9024          
+                 95% CI : (0.8803, 0.9216)
+    No Information Rate : 0.6476          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.7864          
+                                          
+ Mcnemar's Test P-Value : 0.9121          
+                                          
+            Sensitivity : 0.9228          
+            Specificity : 0.8649          
+         Pos Pred Value : 0.9262          
+         Neg Pred Value : 0.8591          
+             Prevalence : 0.6476          
+         Detection Rate : 0.5976          
+   Detection Prevalence : 0.6452          
+      Balanced Accuracy : 0.8938          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  94
+
+[1] "=====Iterasi Ke- 4 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 497  37
+      1  44 262
+                                          
+               Accuracy : 0.9036          
+                 95% CI : (0.8816, 0.9227)
+    No Information Rate : 0.644           
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.7908          
+                                          
+ Mcnemar's Test P-Value : 0.505           
+                                          
+            Sensitivity : 0.9187          
+            Specificity : 0.8763          
+         Pos Pred Value : 0.9307          
+         Neg Pred Value : 0.8562          
+             Prevalence : 0.6440          
+         Detection Rate : 0.5917          
+   Detection Prevalence : 0.6357          
+      Balanced Accuracy : 0.8975          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  98
+
+[1] "=====Iterasi Ke- 5 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 484  44
+      1  49 263
+                                          
+               Accuracy : 0.8893          
+                 95% CI : (0.8661, 0.9097)
+    No Information Rate : 0.6345          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.7621          
+                                          
+ Mcnemar's Test P-Value : 0.6783          
+                                          
+            Sensitivity : 0.9081          
+            Specificity : 0.8567          
+         Pos Pred Value : 0.9167          
+         Neg Pred Value : 0.8429          
+             Prevalence : 0.6345          
+         Detection Rate : 0.5762          
+   Detection Prevalence : 0.6286          
+      Balanced Accuracy : 0.8824          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  472
+
+[1] "=====Iterasi Ke- 1 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 490  40
+      1  36 274
+                                          
+               Accuracy : 0.9095          
+                 95% CI : (0.8881, 0.9281)
+    No Information Rate : 0.6262          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.8062          
+                                          
+ Mcnemar's Test P-Value : 0.7308          
+                                          
+            Sensitivity : 0.9316          
+            Specificity : 0.8726          
+         Pos Pred Value : 0.9245          
+         Neg Pred Value : 0.8839          
+             Prevalence : 0.6262          
+         Detection Rate : 0.5833          
+   Detection Prevalence : 0.6310          
+      Balanced Accuracy : 0.9021          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "=====Iterasi Ke- 2 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 504  36
+      1  47 253
+                                         
+               Accuracy : 0.9012         
+                 95% CI : (0.879, 0.9205)
+    No Information Rate : 0.656          
+    P-Value [Acc > NIR] : <2e-16         
+                                         
+                  Kappa : 0.783          
+                                         
+ Mcnemar's Test P-Value : 0.2724         
+                                         
+            Sensitivity : 0.9147         
+            Specificity : 0.8754         
+         Pos Pred Value : 0.9333         
+         Neg Pred Value : 0.8433         
+             Prevalence : 0.6560         
+         Detection Rate : 0.6000         
+   Detection Prevalence : 0.6429         
+      Balanced Accuracy : 0.8951         
+                                         
+       'Positive' Class : 0              
+                                         
+[1] "=====Iterasi Ke- 3 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 492  53
+      1  34 261
+                                          
+               Accuracy : 0.8964          
+                 95% CI : (0.8738, 0.9162)
+    No Information Rate : 0.6262          
+    P-Value [Acc > NIR] : < 2e-16         
+                                          
+                  Kappa : 0.776           
+                                          
+ Mcnemar's Test P-Value : 0.05363         
+                                          
+            Sensitivity : 0.9354          
+            Specificity : 0.8312          
+         Pos Pred Value : 0.9028          
+         Neg Pred Value : 0.8847          
+             Prevalence : 0.6262          
+         Detection Rate : 0.5857          
+   Detection Prevalence : 0.6488          
+      Balanced Accuracy : 0.8833          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "=====Iterasi Ke- 4 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 471  40
+      1  52 277
+                                          
+               Accuracy : 0.8905          
+                 95% CI : (0.8674, 0.9108)
+    No Information Rate : 0.6226          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.7687          
+                                          
+ Mcnemar's Test P-Value : 0.2515          
+                                          
+            Sensitivity : 0.9006          
+            Specificity : 0.8738          
+         Pos Pred Value : 0.9217          
+         Neg Pred Value : 0.8419          
+             Prevalence : 0.6226          
+         Detection Rate : 0.5607          
+   Detection Prevalence : 0.6083          
+      Balanced Accuracy : 0.8872          
+                                          
+       'Positive' Class : 0               
+                                          
+[1] "=====Iterasi Ke- 5 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 502  42
+      1  43 253
+                                          
+               Accuracy : 0.8988          
+                 95% CI : (0.8764, 0.9184)
+    No Information Rate : 0.6488          
+    P-Value [Acc > NIR] : <2e-16          
+                                          
+                  Kappa : 0.7781          
+                                          
+ Mcnemar's Test P-Value : 1               
+                                          
+            Sensitivity : 0.9211          
+            Specificity : 0.8576          
+         Pos Pred Value : 0.9228          
+         Neg Pred Value : 0.8547          
+             Prevalence : 0.6488          
+         Detection Rate : 0.5976          
+   Detection Prevalence : 0.6476          
+      Balanced Accuracy : 0.8894          
+                                          
+       'Positive' Class : 0               
+                                          

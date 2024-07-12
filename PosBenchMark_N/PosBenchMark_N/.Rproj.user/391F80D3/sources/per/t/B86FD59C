@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631295753324.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3161332951",
+    "id" : "B86FD59C",
+    "lastKnownWriteTime" : 1631296065,
+    "last_content_update" : 1631296065633,
+    "path" : "D:/BioMedik/PosBenchMark_N/PosBenchMark_N/hydro.R",
+    "project_path" : "hydro.R",
+    "properties" : {
+        "cursorPosition" : "5,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

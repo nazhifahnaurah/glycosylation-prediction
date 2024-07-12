@@ -1,0 +1,651 @@
+[1] "=====Iterasi Ke- 1 ====="
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  477
+
+[1] "=====Iterasi Ke- 1 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 526 101
+      1   4 209
+                                          
+               Accuracy : 0.875           
+                 95% CI : (0.8507, 0.8966)
+    No Information Rate : 0.631           
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.7129          
+                                          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.9925          
+            Specificity : 0.6742          
+         Pos Pred Value : 0.8389          
+         Neg Pred Value : 0.9812          
+             Prevalence : 0.6310          
+         Detection Rate : 0.6262          
+   Detection Prevalence : 0.7464          
+      Balanced Accuracy : 0.8333          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  469
+
+[1] "=====Iterasi Ke- 2 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 525 100
+      1  10 205
+                                          
+               Accuracy : 0.869           
+                 95% CI : (0.8443, 0.8911)
+    No Information Rate : 0.6369          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.6977          
+                                          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.9813          
+            Specificity : 0.6721          
+         Pos Pred Value : 0.8400          
+         Neg Pred Value : 0.9535          
+             Prevalence : 0.6369          
+         Detection Rate : 0.6250          
+   Detection Prevalence : 0.7440          
+      Balanced Accuracy : 0.8267          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  456
+
+[1] "=====Iterasi Ke- 3 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 521 128
+      1   5 186
+                                          
+               Accuracy : 0.8417          
+                 95% CI : (0.8152, 0.8657)
+    No Information Rate : 0.6262          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.6328          
+                                          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.9905          
+            Specificity : 0.5924          
+         Pos Pred Value : 0.8028          
+         Neg Pred Value : 0.9738          
+             Prevalence : 0.6262          
+         Detection Rate : 0.6202          
+   Detection Prevalence : 0.7726          
+      Balanced Accuracy : 0.7914          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  471
+
+[1] "=====Iterasi Ke- 4 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 525  72
+      1  12 231
+                                          
+               Accuracy : 0.9             
+                 95% CI : (0.8777, 0.9195)
+    No Information Rate : 0.6393          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.7734          
+                                          
+ Mcnemar's Test P-Value : 1.215e-10       
+                                          
+            Sensitivity : 0.9777          
+            Specificity : 0.7624          
+         Pos Pred Value : 0.8794          
+         Neg Pred Value : 0.9506          
+             Prevalence : 0.6393          
+         Detection Rate : 0.6250          
+   Detection Prevalence : 0.7107          
+      Balanced Accuracy : 0.8700          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  469
+
+[1] "=====Iterasi Ke- 5 ====="
+Confusion Matrix and Statistics
+
+       Actual
+predict   0   1
+      0 533  56
+      1  16 235
+                                          
+               Accuracy : 0.9143          
+                 95% CI : (0.8933, 0.9323)
+    No Information Rate : 0.6536          
+    P-Value [Acc > NIR] : < 2.2e-16       
+                                          
+                  Kappa : 0.8044          
+                                          
+ Mcnemar's Test P-Value : 4.303e-06       
+                                          
+            Sensitivity : 0.9709          
+            Specificity : 0.8076          
+         Pos Pred Value : 0.9049          
+         Neg Pred Value : 0.9363          
+             Prevalence : 0.6536          
+         Detection Rate : 0.6345          
+   Detection Prevalence : 0.7012          
+      Balanced Accuracy : 0.8892          
+                                          
+       'Positive' Class : 0               
+                                          
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  188
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  166
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  180
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  170
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  178
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  323
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  303
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  299
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  298
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  293
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  101
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  109
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  77
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  89
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  97
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  104
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  113
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  101
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  112
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "linear")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  linear 
+       cost:  1 
+
+Number of Support Vectors:  106
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  472
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  452
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  478
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  466
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "polynomial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  polynomial 
+       cost:  1 
+     degree:  3 
+     coef.0:  0 
+
+Number of Support Vectors:  465
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  185
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  179
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  181
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  180
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "sigmoid")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  sigmoid 
+       cost:  1 
+     coef.0:  0 
+
+Number of Support Vectors:  196
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  297
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  330
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  304
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  298
+
+
+Call:
+svm(formula = class ~ ., data = data_train, type = "C-classification", kernel = "radial")
+
+
+Parameters:
+   SVM-Type:  C-classification 
+ SVM-Kernel:  radial 
+       cost:  1 
+
+Number of Support Vectors:  311
+

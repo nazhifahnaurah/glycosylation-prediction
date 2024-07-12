@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631342417365.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1043430950",
+    "id" : "A0B5E688",
+    "lastKnownWriteTime" : 1631342445,
+    "last_content_update" : 1631342445221,
+    "path" : "D:/BioMedik/NegBenchMark_O/NegBenchMark_O/pac.R",
+    "project_path" : "pac.R",
+    "properties" : {
+        "cursorPosition" : "4,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

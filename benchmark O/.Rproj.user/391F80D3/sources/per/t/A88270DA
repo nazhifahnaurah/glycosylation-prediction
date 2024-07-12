@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633075027655.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1713739620",
+    "id" : "A88270DA",
+    "lastKnownWriteTime" : 1633076094,
+    "last_content_update" : 1633076094850,
+    "path" : "D:/benchmark O/mrmr 25.R",
+    "project_path" : "mrmr 25.R",
+    "properties" : {
+        "cursorPosition" : "124,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

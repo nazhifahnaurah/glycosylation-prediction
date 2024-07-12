@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628764017591.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2809294225",
+    "id" : "13E008F1",
+    "lastKnownWriteTime" : 1630931297,
+    "last_content_update" : 1630931297989,
+    "path" : "D:/BioMedik/NegBenchMark_N/NegBenchMark_N/aaindex.R",
+    "project_path" : "aaindex.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

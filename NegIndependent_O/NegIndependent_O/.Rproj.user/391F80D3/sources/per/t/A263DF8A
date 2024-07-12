@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631501852119.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2950767861",
+    "id" : "A263DF8A",
+    "lastKnownWriteTime" : 1631513687,
+    "last_content_update" : 1631513687687,
+    "path" : "D:/BioMedik/NegIndependent_O/NegIndependent_O/svm mrmr.R",
+    "project_path" : "svm mrmr.R",
+    "properties" : {
+        "cursorPosition" : "110,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

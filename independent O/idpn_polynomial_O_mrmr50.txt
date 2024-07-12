@@ -1,0 +1,145 @@
+[1] "=====Iterasi Ke- 1 ====="
+Confusion Matrix and Statistics
+
+       actual
+predict   0   1
+      0 132  54
+      1   0  18
+                                          
+               Accuracy : 0.7353          
+                 95% CI : (0.6692, 0.7945)
+    No Information Rate : 0.6471          
+    P-Value [Acc > NIR] : 0.00449         
+                                          
+                  Kappa : 0.3014          
+                                          
+ Mcnemar's Test P-Value : 5.498e-13       
+                                          
+            Sensitivity : 0.25000         
+            Specificity : 1.00000         
+         Pos Pred Value : 1.00000         
+         Neg Pred Value : 0.70968         
+             Prevalence : 0.35294         
+         Detection Rate : 0.08824         
+   Detection Prevalence : 0.08824         
+      Balanced Accuracy : 0.62500         
+                                          
+       'Positive' Class : 1               
+                                          
+[1] "MCC =  0.421211769587116"
+[1] "=====Iterasi Ke- 2 ====="
+Confusion Matrix and Statistics
+
+       actual
+predict   0   1
+      0 134  34
+      1   2  34
+                                          
+               Accuracy : 0.8235          
+                 95% CI : (0.7642, 0.8732)
+    No Information Rate : 0.6667          
+    P-Value [Acc > NIR] : 4.204e-07       
+                                          
+                  Kappa : 0.55            
+                                          
+ Mcnemar's Test P-Value : 2.383e-07       
+                                          
+            Sensitivity : 0.5000          
+            Specificity : 0.9853          
+         Pos Pred Value : 0.9444          
+         Neg Pred Value : 0.7976          
+             Prevalence : 0.3333          
+         Detection Rate : 0.1667          
+   Detection Prevalence : 0.1765          
+      Balanced Accuracy : 0.7426          
+                                          
+       'Positive' Class : 1               
+                                          
+[1] "MCC =  0.600099198148979"
+[1] "=====Iterasi Ke- 3 ====="
+Confusion Matrix and Statistics
+
+       actual
+predict   0   1
+      0 128  59
+      1   1  16
+                                          
+               Accuracy : 0.7059          
+                 95% CI : (0.6382, 0.7674)
+    No Information Rate : 0.6324          
+    P-Value [Acc > NIR] : 0.01652         
+                                          
+                  Kappa : 0.2453          
+                                          
+ Mcnemar's Test P-Value : 1.858e-13       
+                                          
+            Sensitivity : 0.21333         
+            Specificity : 0.99225         
+         Pos Pred Value : 0.94118         
+         Neg Pred Value : 0.68449         
+             Prevalence : 0.36765         
+         Detection Rate : 0.07843         
+   Detection Prevalence : 0.08333         
+      Balanced Accuracy : 0.60279         
+                                          
+       'Positive' Class : 1               
+                                          
+[1] "MCC =  0.358644382099928"
+[1] "=====Iterasi Ke- 4 ====="
+Confusion Matrix and Statistics
+
+       actual
+predict   0   1
+      0 125  66
+      1   0  13
+                                          
+               Accuracy : 0.6765          
+                 95% CI : (0.6076, 0.7401)
+    No Information Rate : 0.6127          
+    P-Value [Acc > NIR] : 0.03509         
+                                          
+                  Kappa : 0.1944          
+                                          
+ Mcnemar's Test P-Value : 1.235e-15       
+                                          
+            Sensitivity : 0.16456         
+            Specificity : 1.00000         
+         Pos Pred Value : 1.00000         
+         Neg Pred Value : 0.65445         
+             Prevalence : 0.38725         
+         Detection Rate : 0.06373         
+   Detection Prevalence : 0.06373         
+      Balanced Accuracy : 0.58228         
+                                          
+       'Positive' Class : 1               
+                                          
+[1] "MCC =  0.328168168589227"
+[1] "=====Iterasi Ke- 5 ====="
+Confusion Matrix and Statistics
+
+       actual
+predict   0   1
+      0 127  66
+      1   0  11
+                                          
+               Accuracy : 0.6765          
+                 95% CI : (0.6076, 0.7401)
+    No Information Rate : 0.6225          
+    P-Value [Acc > NIR] : 0.06359         
+                                          
+                  Kappa : 0.1719          
+                                          
+ Mcnemar's Test P-Value : 1.235e-15       
+                                          
+            Sensitivity : 0.14286         
+            Specificity : 1.00000         
+         Pos Pred Value : 1.00000         
+         Neg Pred Value : 0.65803         
+             Prevalence : 0.37745         
+         Detection Rate : 0.05392         
+   Detection Prevalence : 0.05392         
+      Balanced Accuracy : 0.57143         
+                                          
+       'Positive' Class : 1               
+                                          
+[1] "MCC =  0.306601436974291"

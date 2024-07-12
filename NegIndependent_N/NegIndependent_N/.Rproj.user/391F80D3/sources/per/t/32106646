@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1629550973748.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1285676642",
+    "id" : "32106646",
+    "lastKnownWriteTime" : 1631365698,
+    "last_content_update" : 1631365698047,
+    "path" : "D:/BioMedik/NegIndependent_N/NegIndependent_N/cbin.R",
+    "project_path" : "cbin.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631259239079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2654027506",
+    "id" : "B422859C",
+    "lastKnownWriteTime" : 1631259302,
+    "last_content_update" : 1631259302,
+    "path" : "D:/skripsi/BioMedik/NegBenchMark_C/pac.R",
+    "project_path" : "pac.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

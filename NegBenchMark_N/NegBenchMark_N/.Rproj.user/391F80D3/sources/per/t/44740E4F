@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630935135923.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2767199786",
+    "id" : "44740E4F",
+    "lastKnownWriteTime" : 1631338871,
+    "last_content_update" : 1631338871420,
+    "path" : "D:/BioMedik/NegBenchMark_N/NegBenchMark_N/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "cursorPosition" : "86,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633025205840.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "809410815",
+    "id" : "4174FC0",
+    "lastKnownWriteTime" : 1633026953,
+    "last_content_update" : 1633026953047,
+    "path" : "D:/sems skripsi/Independent C/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "cursorPosition" : "34,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

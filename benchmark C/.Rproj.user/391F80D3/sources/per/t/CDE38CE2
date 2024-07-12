@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636626788518.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDE38CE2",
+    "lastKnownWriteTime" : 7594316270505583975,
+    "last_content_update" : 1636626788518,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "83DB4D74",
+        "caption" : "var_kanker",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=var_kanker&cache_key=83DB4D74",
+        "displayedObservations" : 8,
+        "environment" : "",
+        "expression" : "var_kanker",
+        "object" : "var_kanker",
+        "preview" : 0,
+        "totalObservations" : 8,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

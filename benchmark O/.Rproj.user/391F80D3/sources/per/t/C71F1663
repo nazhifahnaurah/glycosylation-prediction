@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633075063463.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3671548454",
+    "id" : "C71F1663",
+    "lastKnownWriteTime" : 1633077171,
+    "last_content_update" : 1633077171656,
+    "path" : "D:/benchmark O/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "cursorPosition" : "125,1",
+        "scrollLine" : "108",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

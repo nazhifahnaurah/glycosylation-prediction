@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627697965447.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1405628813",
+    "id" : "857A45FA",
+    "lastKnownWriteTime" : 1627698015,
+    "last_content_update" : 1627698015605,
+    "path" : "D:/BioMedik/PosIndependent_C/id dan posisi PosIndependent_C.R",
+    "project_path" : "id dan posisi PosIndependent_C.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630931465676.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3519867274",
+    "id" : "57D6E0AD",
+    "lastKnownWriteTime" : 1631334199,
+    "last_content_update" : 1631334199825,
+    "path" : "D:/BioMedik/PosBenchMark_N/PosBenchMark_N/cbind.R",
+    "project_path" : "cbind.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

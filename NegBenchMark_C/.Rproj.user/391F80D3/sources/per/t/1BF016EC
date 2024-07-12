@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630915498555.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2479352714",
+    "id" : "1BF016EC",
+    "lastKnownWriteTime" : 1631336027,
+    "last_content_update" : 1631336027,
+    "path" : "D:/BioMedik/ngasal/ngasal.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "1,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

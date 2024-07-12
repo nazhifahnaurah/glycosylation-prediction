@@ -1,0 +1,10 @@
+library(mRMRe)
+kanker<-read.csv("D:/kanker3.csv", header = TRUE, sep=";")
+colnames(kanker)
+var_kanker<-kanker[,-1]
+var_kanker<-kanker[,-4]
+str(kanker)
+knkr<-mRMR.data(data=data.frame(as.integer(var_kanker)))
+MRMR_Test<-mRMR.classic("mRMRe.Filter", data=knkr, target_indices=3,
+                        feature_count = 2)
+solutions(MRMR_Test)

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628574363402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3766846585",
+    "id" : "61399FA2",
+    "lastKnownWriteTime" : 1628574196,
+    "last_content_update" : 1628574196,
+    "path" : "D:/BioMedik/PosIndependent_C/PosIndependent_C.fasta",
+    "project_path" : "PosIndependent_C.fasta",
+    "properties" : {
+        "cursorPosition" : "7,16",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

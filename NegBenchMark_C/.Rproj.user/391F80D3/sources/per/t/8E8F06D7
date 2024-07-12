@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631604651979.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "583519539",
+    "id" : "8E8F06D7",
+    "lastKnownWriteTime" : 1631605164,
+    "last_content_update" : 1631605164334,
+    "path" : "D:/skripsi/BioMedik/NegBenchMark_C/svm tanpa mrmr.R",
+    "project_path" : "svm tanpa mrmr.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

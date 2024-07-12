@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628597345614.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2352357792",
+    "id" : "52B4570D",
+    "lastKnownWriteTime" : 1628768422,
+    "last_content_update" : 1628768422238,
+    "path" : "D:/BioMedik/PosIndependent_N/PosIndependent_N.R",
+    "project_path" : "PosIndependent_N.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

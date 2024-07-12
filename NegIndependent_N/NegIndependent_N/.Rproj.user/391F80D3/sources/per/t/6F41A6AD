@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627696983469.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3482766419",
+    "id" : "6F41A6AD",
+    "lastKnownWriteTime" : 1628134698,
+    "last_content_update" : 1628134698229,
+    "path" : "D:/BioMedik/NegIndependent_N/NegIndependent_N/NegIndependent_N.R",
+    "project_path" : "NegIndependent_N.R",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633073482146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1016581927",
+    "id" : "5AC336F3",
+    "lastKnownWriteTime" : 1633073910,
+    "last_content_update" : 1633073910123,
+    "path" : "D:/benchmark N/svm mrmr 50.R",
+    "project_path" : "svm mrmr 50.R",
+    "properties" : {
+        "cursorPosition" : "126,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

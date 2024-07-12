@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1630935703477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1785419420",
+    "id" : "396120E2",
+    "lastKnownWriteTime" : 1631336749,
+    "last_content_update" : 1631336749173,
+    "path" : "D:/skripsi/BioMedik/NegBenchMark_C/select column.R",
+    "project_path" : "select column.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

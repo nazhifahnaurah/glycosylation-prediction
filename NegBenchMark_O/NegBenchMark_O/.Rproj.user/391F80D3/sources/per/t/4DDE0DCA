@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627696868201.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1171514082",
+    "id" : "4DDE0DCA",
+    "lastKnownWriteTime" : 1628157207,
+    "last_content_update" : 1628157207324,
+    "path" : "D:/BioMedik/NegBenchMark_O/NegBenchMark_O/NegBenchMark_O.R",
+    "project_path" : "NegBenchMark_O.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
